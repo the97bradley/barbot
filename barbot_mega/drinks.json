@@ -1,0 +1,17 @@
+{
+   "drinks": [
+
+      {
+         "name": "name1",
+         "extras": "these are extras",
+         "tequila": 2,
+         "gin": 1
+      },
+      {
+         "name": "name2",
+         "extras": "these are extras",
+         "vodka": 2,
+         "rum": 1
+      }
+   ]
+}
